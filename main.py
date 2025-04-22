@@ -19,3 +19,4 @@ import oops as op
 C1=op.Car()
 C1.name("BMW")
 C1.display()
+C1.addType("EV")
