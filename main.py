@@ -10,3 +10,12 @@ print(f"Multiplication function imported {ex.multiply(4,4)}")
 print(f"Division function imported {ex.divide(100,10)}")
 print(f"Power function imported {ex.power(2,3)}")
 print("----------------------------")
+
+print("checking the class imports ")
+print("==============================")
+
+
+import oops as op
+C1=op.Car()
+C1.name("BMW")
+C1.display()
